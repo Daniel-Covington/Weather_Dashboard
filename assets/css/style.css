@@ -1,0 +1,9 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  .weather-dashboard-header {
+    background-image: linear-gradient(to left, #007bff, #3f9af9, #6cbdfb);
+    padding: 20px 0;
+    margin-bottom: 20px;
+  }
