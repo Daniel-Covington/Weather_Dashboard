@@ -7,3 +7,47 @@ body {
     padding: 20px 0;
     margin-bottom: 20px;
   }
+  
+  .weather-dashboard-header h1 {
+    color: white;
+    margin: 0;
+  }
+  
+  .search-container {
+    width: 100%;
+  }
+  
+  #search-btn {
+    width: 100%;
+    display: block;
+    font-size: 1.0em !important;
+    margin-bottom: 5px;
+  }
+  
+  #current-weather {
+    
+    background-color: rgba(128, 128, 128, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  @media (min-width: 768px) {
+    .col-md-2-4 {
+      flex: 0 0 20%;
+      max-width: 20%;
+    }
+  }
+  
+  /* Add some padding to forecast container */
+  #forecast {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+  
+  button.btn.rounded {
+    border-radius: 10px !important ;
+    background-color: #a8a8a8;
+    font-size: 2.0em !important;
+    margin-bottom: 15px !important;
+    margin-top: 15px !important;
+  }
