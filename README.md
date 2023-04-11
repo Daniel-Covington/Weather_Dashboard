@@ -19,7 +19,6 @@ To set up Weather Dashboard on your local machine, follow these instructions:
 * Replace the placeholders in the code with your API keys.
 * Open the index.html file in your favorite browser.
 
-
 ## Technologies Used 
 * HTML
 * CSS
@@ -29,8 +28,6 @@ To set up Weather Dashboard on your local machine, follow these instructions:
 * Get weather data with openweathermap.org API
 * Bootstrap
 * jquery
-
-
 
 ##  Links
 
