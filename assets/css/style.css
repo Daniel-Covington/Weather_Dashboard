@@ -16,6 +16,11 @@ body {
   .search-container {
     width: 100%;
   }
+
+  .search-container h3 {
+    font-size: 2.4em;
+    margin-bottom: 10px;
+  }
   
   #search-btn {
     width: 100%;
@@ -30,6 +35,15 @@ body {
     padding: 20px;
     margin-bottom: 20px;
   }
+
+  #current-weather h2 {
+    font-size: 2.5em;
+  }
+
+  .forecast-title {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+  }
   
   @media (min-width: 768px) {
     .col-md-2-4 {
@@ -38,16 +52,10 @@ body {
     }
   }
   
-  /* Add some padding to forecast container */
-  #forecast {
-    padding-left: 0px;
-    padding-right: 0px;
-  }
-  
   button.btn.rounded {
     border-radius: 10px !important ;
     background-color: #a8a8a8;
-    font-size: 2.0em !important;
+    font-size: 1.9em !important;
     margin-bottom: 15px !important;
     margin-top: 15px !important;
   }

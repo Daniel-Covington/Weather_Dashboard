@@ -24,11 +24,13 @@ To set up Weather Dashboard on your local machine, follow these instructions:
 * HTML
 * CSS
 * JavaScript
-*  
-*  
+* Search Auto Complete with GeoNamesAPI 
+* Find current location with openstreetmap.org API
+* Get weather data with openweathermap.org API
+* Bootstrap
+* jquery
 
-## Future Development
-* 
+
 
 ##  Links
 

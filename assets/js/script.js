@@ -79,8 +79,6 @@ function getForecastData(lat, lon) {
     });
 }
 
-
-
 function saveSearchHistory(city) {
   let cities = localStorage.getItem('search-history');
 
@@ -188,6 +186,5 @@ function getWeatherDataByCoords(lat, lon) {
     }
   });
   
-
   getLocation();
   loadSearchHistory();
